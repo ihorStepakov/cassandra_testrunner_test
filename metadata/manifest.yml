@@ -1,7 +1,7 @@
 Name: cassandra
 Cartridge-Short-Name: CASSANDRA
 Architecture: noarch
-Display-Name: Cassandra Database 1.2.5
+Display-Name: Cassandra Test
 Description: "Cassandra is a multi-user, multi-threaded NoSQL database server."
 Version: '1.2.5'
 Versions: [1.2.5]
