@@ -1,4 +1,4 @@
-Name: cassandra
+Name: cassandraTest
 Cartridge-Short-Name: CASSANDRA
 Architecture: noarch
 Display-Name: Cassandra Test
